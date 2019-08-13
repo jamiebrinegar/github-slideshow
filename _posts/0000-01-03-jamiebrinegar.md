@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to my second slide!"
 ---
-Your text
+"No great thing is created suddenly" - Epictetus
 Use the left arrow to go back!
